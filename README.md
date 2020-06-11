@@ -1,5 +1,5 @@
-# Ecoleta-
--Ajudamos pessoas a encontrarem pontos de coleta de maneira eficiente. 
+# Ecoleta
+"Ajudamos pessoas a encontrarem pontos de coleta de maneira eficiente."
 
 O ecoleta foi desenvolvido durante a Next Level Week, que ocorreu durante a semana do meio ambiente.
 Por isso, é uma aplicação totalmente ecológica.
